@@ -1,4 +1,4 @@
-# Proyecto grupas SPD
+# Proyecto grupos SPD
 
 - Nombre: Brandon Flores
 - Materia: SPD
